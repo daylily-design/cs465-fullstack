@@ -1,7 +1,7 @@
 # cs465-fullstack
 Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 --
-Express HTML was seen as a multi-page application (MPA), Angular.js was seen as a single page application (SPA), and JavaScript was used in both the front- and back-end appearance and operations. Examples of the use of JavaScript include routing, visible components like the trip cards, and endpoiint services like UPDATE and GET.
+Express HTML was seen as a multi-page application (MPA), Angular.js was seen as a single page application (SPA), and JavaScript was used in both the front- and back-end appearance and operations. The SPA reduced the need for different tabs and HTML-based URLs and preloaded the JavaScript code to improve overall response times. Examples of the use of JavaScript include routing, visible components like the trip cards, and endpoiint services like UPDATE and GET.
 
 Why did the backend use a NoSQL MongoDB database?
 --
